@@ -11,6 +11,7 @@
     2016/03/21
     Mauricio Jabur
     mau -AT- maumaker.com.br
+    github.com/maujabur/moeda_social_orpas
 
    @licença liberada em domínio público
    @license Released into the public domain.
