@@ -13,8 +13,7 @@
     mau -AT- maumaker.com.br
     github.com/maujabur/moeda_social_orpas
 
-   @licença liberada em domínio público
-   @license Released into the public domain.
+    This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
    Pinos Usados
    -----------------------------------------------------------------------------------------
